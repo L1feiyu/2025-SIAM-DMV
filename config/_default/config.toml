@@ -1,5 +1,5 @@
-baseURL = 'https://l1feiyu.github.io/webshow/'
-languageCode = ''
+baseURL = 'https://L1feiyu.github.io/2025-SIAM-DMV/'
+languageCode = 'en'
 title = 'Magnolia Default' # This can get overwritten by the single language files
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubDir = false
@@ -10,7 +10,7 @@ googleAnalytics = ""
 # BLOG
 # Uncomment if you want to disable all posts and tags rendering and indexing
 ignoreFiles= ['posts/*']
-disableKinds = ['taxonomy', 'term']
+#disableKinds = ['taxonomy', 'term']
 
 # Developer area
 
@@ -26,8 +26,8 @@ tag = "tags"
       target = 'assets'
   # Prints warning if hugo version is too old
   [module.hugoVersion]
-    extended = false
-    min = '0.129.0'
+    extended = true
+    min = '0.145.0'
 
 
   
