@@ -1,4 +1,4 @@
 .hugo_build.lock
-resources/
-public/
+#resources/
+#public/
 .prettierrc
