@@ -1,8 +1,8 @@
-baseURL = 'https://example.com'
+baseURL = 'https://l1feiyu.github.io/webshow/'
 languageCode = ''
 title = 'Magnolia Default' # This can get overwritten by the single language files
 defaultContentLanguage = 'en'
-# defaultContentLanguageInSubDir = true
+defaultContentLanguageInSubDir = false
 enableRobotsTXT = true
 theme = "Magnolia"
 googleAnalytics = ""
