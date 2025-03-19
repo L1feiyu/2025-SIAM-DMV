@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /en/404
+
+Disallow: /it/404
+
+Sitemap: https://L1feiyu.github.io/2025-SIAM-DMV//sitemap.xml

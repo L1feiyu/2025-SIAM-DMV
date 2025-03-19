@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magnolia</title>
+    <link>https://L1feiyu.github.io/2025-SIAM-DMV/it/</link>
+    <description>Recent content on Magnolia</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <copyright>Designed with [Hugo](https://gohugo.io/) by [Ludovico Caluori](https://github.com/ololiuhqui) 🎨 
+
+ Licensed under [MIT license](https://github.com/ololiuhqui/magnolia-free-hugo-theme/blob/main/LICENSE.md) 📄</copyright>
+    <atom:link href="https://L1feiyu.github.io/2025-SIAM-DMV/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caratteristiche</title>
+      <link>https://L1feiyu.github.io/2025-SIAM-DMV/caratteristiche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://L1feiyu.github.io/2025-SIAM-DMV/caratteristiche/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contatti</title>
+      <link>https://L1feiyu.github.io/2025-SIAM-DMV/contatti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://L1feiyu.github.io/2025-SIAM-DMV/contatti/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ufficio</title>
+      <link>https://L1feiyu.github.io/2025-SIAM-DMV/ufficio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://L1feiyu.github.io/2025-SIAM-DMV/ufficio/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
