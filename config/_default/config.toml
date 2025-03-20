@@ -6,6 +6,8 @@ defaultContentLanguageInSubDir = false
 enableRobotsTXT = true
 theme = "Magnolia"
 googleAnalytics = ""
+publishDir = "public"
+
 
 disableLanguages = ["it"]  # no multilingual
 
