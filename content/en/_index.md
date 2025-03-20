@@ -20,6 +20,10 @@ draft: false
         <img src="Vince_Lyzinski.png" alt="Vince Lyzinski" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
         <figcaption style="font-size: 14px; color: gray;">Vince Lyzinski</figcaption>
     </figure>
+        <figure style="text-align: center;">
+        <img src="Mauro_Maggioni.jpg" alt="Mauro Maggioni" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Mauro Maggioni</figcaption>
+    </figure>
     <figure style="text-align: center;">
         <img src="Brad_Peercy.jpg" alt="Brad Peercy" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
         <figcaption style="font-size: 14px; color: gray;">Brad Peercy</figcaption>
@@ -31,10 +35,6 @@ draft: false
     <figure style="text-align: center;">
         <img src="Soledad_Villar.png" alt="Soledad Villar" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
         <figcaption style="font-size: 14px; color: gray;">Soledad Villar</figcaption>
-    </figure>
-    <figure style="text-align: center;">
-        <img src="jhu.png" alt="Name" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-        <figcaption style="font-size: 14px; color: gray;">Speaker from JHU</figcaption>
     </figure>
 </div>
 
@@ -61,12 +61,12 @@ draft: false
         <figcaption style="font-size: 14px; color: gray;">Shashank Sule</figcaption>
     </figure>
     <figure style="text-align: center;">
-        <img src="Yaqi_Wu.jpg" alt="Yaqi Wu" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-        <figcaption style="font-size: 14px; color: gray;">Yaqi Wu</figcaption>
+        <img src="Seanice_Tucker.jpg" alt="Seanice Tucker" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Seanice Tuckere</figcaption>
     </figure>
     <figure style="text-align: center;">
-        <img src="jhu.png" alt="Seanice" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-        <figcaption style="font-size: 14px; color: gray;">Seanice</figcaption>
+        <img src="Yaqi_Wu.jpg" alt="Yaqi Wu" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <figcaption style="font-size: 14px; color: gray;">Yaqi Wu</figcaption>
     </figure>
 </div>
 

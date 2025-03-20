@@ -38,24 +38,26 @@ Look at what this theme is capable to do on the features page, and see a beautif
 
 [params.office]
   title = "Location"
- description = "This page can be easily customized by adding a google maps link to get directions towards your activity location."
+ description = "JHU,homewood campus"
  buttonText = "Get directions" 
  buttonLink = "https://maps.app.goo.gl/8vgTXYk6Q6k7eM7U6" # google maps "share" link here (for button)
  mapLink = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJH0vAqN8EyIkR9NCwaMzXwTg&key=AIzaSyDy0NpkxUq6yapNLVGRsOULcXV9NTV_jwg" # google maps "embed" link here
 
 [params.contacts]
-  title = "Get in touch!"
-  formCallToAction = "This is a \"contact us\" example page, you can receive form responses on FormSpree."
-  socialCallToAction = "You can add your own social media links below!" # These are the same as in [params.social]
-  [params.contacts.form]
-    formspreeLink = "https://yourformspreelink.com" #subscribe to formspree and add the link for the form here
-    firstname = "Firstname*"
-    lastname = "Lastname*"
-    email = "E-mail*"
-    phone = "Phone Number*"
-    Inquiry = "Inquiry*"
-    checkbox = "I accept that my data will be processed in accordance with the law*"
-    submitBtn = "Submit"
+  title = "Presentation Abstract"
+  formCallToAction = "Coming soon"
+  #socialCallToAction = "" # These are the same as in [params.social]
+  [params.contacts.list]
+    # You can add as much params.services.list.<N> as you like
+    [params.contacts.list.0]
+      title= "Primary Talks"
+      description= ""
+    [params.contacts.list.01]
+      title = "Student Talks"
+      description= ""
+    [params.contacts.list.02]
+      title = "TBD"
+      description= ""
 
 
 [params.services]
@@ -78,13 +80,13 @@ Look at what this theme is capable to do on the features page, and see a beautif
     # You can add as much params.services.list.<N> as you like
     [params.services.list.0]
       title= "Primary Talks"
-      description= "The theme is fully responsive and shows perfectly on every screen size."
+      description= ""
     [params.services.list.01]
       title = "Posters"
-      description= "Hide and show some elements easily from the config file."
+      description= ""
     [params.services.list.02]
       title = "TBD"
-      description= "The default content language is english (it can be changed), but you can add as many languages as you want very easily, the theme includes an italian language example and a dropdown menù for easily switching between languages. Permalinks can be localized in each language (eg. you can have `/contacts` for english and `/contatti` for italian)."
+      description= ""
 
 [params.socials]
   enabled = false # enables/disables the whole social section in the footer
