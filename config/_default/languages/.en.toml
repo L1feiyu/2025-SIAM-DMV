@@ -26,7 +26,7 @@ ___
 
 The aim of this joint meeting among these neighboring institutions and SIAM student chapters presents an exceptional opportunity to bring together math researchers at all levels to learn from peers, share ideas and foster new collaborations. Please join us for poster sessions, research talks, and keynote speakers from distinguished faculty with research expertise spanning machine and statistical learning, numerical methods, mathematical biology, and more.
 
-Look at what this theme is capable to do on the features page, and see a beautiful contacts page example below.
+The event is hosted on a rotating basis by six universities in the DC-Maryland-Virginia area, and this year, it will be held at JHU’s Homewood campus.
         """
     mainButton = "Schedule"
     mainButtonRef = "services" # Just write the name or slug of the page here

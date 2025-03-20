@@ -29,7 +29,7 @@ draft: false
         <figcaption style="font-size: 14px; color: gray;">Brad Peercy</figcaption>
     </figure>
     <figure style="text-align: center;">
-        <img src="Mahlet_Tadesse.jpg" alt="Mahlet Tadesse" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
+        <img src="Mahlet_Tadesse_Picture.jpg" alt="Mahlet Tadesse" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
         <figcaption style="font-size: 14px; color: gray;">Mahlet Tadesse</figcaption>
     </figure>
     <figure style="text-align: center;">
