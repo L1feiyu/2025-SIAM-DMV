@@ -4,109 +4,11 @@ description: 'A free hugo theme'
 draft: false
 ---
 
-<style>
-  /* 统一设置 Grid 布局 */
-  .people-grid {
-    display: grid;
-    grid-template-columns: repeat(7, 120px); /* 7列，每列宽度120px */
-    justify-content: center;
-    gap: 40px; /* 列间距 */
-    width: 100%;
-    max-width: 1050px; /* 7x120 + 6x30 = 1050px */
-    margin: 0 auto;
-  }
-  
-  /* 确保头像和名字对齐 */
-  .person {
-    text-align: center;
-    width: 120px;
-  }
-  
-  .person img {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    object-fit: cover;
-    display: block;
-  }
-  
-  .person figcaption {
-    font-size: 14px;
-    color: black;
-    margin-top: 8px;
-  }
-</style>
-
-<!-- Speakers 部分 -->
-<h1 style="text-align: center;">Primary Speakers</h1>
-<div class="people-grid">
-  <figure class="person">
-    <img src="Kathleen_Hoffman.JPG" alt="Kathleen Hoffman" width="120" height="120" style="border-radius: 50%; object-fit: cover; object-position: 50% 20%;">
-    <figcaption>Kathleen Hoffman, UMBC</figcaption>
-  </figure>
-  <figure class="person">
-    <img src="Rayanne_Luke.JPG" alt="Rayanne Luke">
-    <figcaption>Rayanne Luke, GMU</figcaption>
-  </figure>
-  <figure class="person">
-    <img src="Vince_Lyzinski.png" alt="Vince Lyzinski" width="120" height="120" style="border-radius: 50%; object-fit: cover; object-position: 50% 20%;">
-    <figcaption>Vince Lyzinski, UMCP</figcaption>
-  </figure>
-  <figure class="person">
-    <img src="Mauro_Maggioni.jpg" alt="Mauro Maggioni">
-    <figcaption>Mauro Maggioni, JHU</figcaption>
-  </figure>
-  <figure class="person">
-    <img src="Brad_Peercy.jpg" alt="Brad Peercy">
-    <figcaption>Brad Peercy, UMBC</figcaption>
-  </figure>
-  <figure class="person">
-    <img src="Mahlet_Tadesse_Picture.jpg" alt="Mahlet Tadesse">
-    <figcaption>Mahlet Tadesse, GU</figcaption>
-  </figure>
-  <figure class="person">
-    <img src="Soledad_Villar.png" alt="Soledad Villar">
-    <figcaption>Soledad Villar, JHU</figcaption>
-  </figure>
-</div>
-
-<!-- Organizers 部分 -->
-<h1 style="text-align: center;">Organizers</h1>
-<div class="people-grid">
-  <figure class="person">
-    <img src="Zan_Ahmad.jpeg" alt="Zan Ahmad">
-    <figcaption>Zan Ahmad</figcaption>
-  </figure>
-  <figure class="person">
-    <img src="Zainab_Almutawa.jpg" alt="Zainab Almutawa">
-    <figcaption>Zainab Almutawa</figcaption>
-  </figure>
-  <figure class="person">
-    <img src="Urshila_Choubal.jpeg" alt="Urshila Choubal">
-    <figcaption>Urshila Choubal</figcaption>
-  </figure>
-  <figure class="person">
-    <img src="Alonso_Ogueda-Oliva.jpg" alt="Alonso Ogueda-Oliva">
-    <figcaption>Alonso Ogueda-Oliva</figcaption>
-  </figure>
-  <figure class="person">
-    <img src="Shashank_Sule.jpeg" alt="Shashank Sule">
-    <figcaption>Shashank Sule</figcaption>
-  </figure>
-  <figure class="person">
-    <img src="Seanice_Tucker.jpg" alt="Seanice Tucker">
-    <figcaption>Seanice Tucker</figcaption>
-  </figure>
-  <figure class="person">
-    <img src="Yaqi_Wu.jpg" alt="Yaqi Wu">
-    <figcaption>Yaqi Wu</figcaption>
-  </figure>
-</div>
 
 
 <!-- ---------------------------------------------------------------- -->
 
-<!-- <h1 style="text-align: center;">Primary Speakers</h1>
+<h1 style="text-align: center;">Primary Speakers</h1>
 
 
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
@@ -170,7 +72,7 @@ draft: false
         <img src="Yaqi_Wu.jpg" alt="Yaqi Wu" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
         <figcaption style="font-size: 14px; color: black;">Yaqi Wu</figcaption>
     </figure>
-</div> -->
+</div>
 
 <!-- --------------------------------------------------------- -->
 
