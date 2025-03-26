@@ -9,32 +9,32 @@ draft: false
 
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
     <figure style="text-align: center;">
-        <img src="Kathleen_Hoffman.JPG" alt="Kathleen Hoffman" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-        <figcaption style="font-size: 14px; color: gray;">Kathleen Hoffman</figcaption>
+        <img src="Kathleen_Hoffman.JPG" alt="Kathleen Hoffman" width="120" height="120" style="border-radius: 50%; object-fit: cover; object-position: 50% 20%;">
+        <figcaption style="font-size: 14px; color: gray;">Kathleen Hoffman, UMBC</figcaption>
     </figure>
     <figure style="text-align: center;">
         <img src="Rayanne_Luke.JPG" alt="Rayanne Luke" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-        <figcaption style="font-size: 14px; color: gray;">Rayanne Luke</figcaption>
+        <figcaption style="font-size: 14px; color: gray;">Rayanne Luke, GMU</figcaption>
     </figure>
     <figure style="text-align: center;">
-        <img src="Vince_Lyzinski.png" alt="Vince Lyzinski" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-        <figcaption style="font-size: 14px; color: gray;">Vince Lyzinski</figcaption>
+        <img src="Vince_Lyzinski.png" alt="Vince Lyzinski" width="120" height="120" style="border-radius: 50%; object-fit: cover; object-position: 50% 20%;">
+        <figcaption style="font-size: 14px; color: gray;">Vince Lyzinski, UMCP</figcaption>
     </figure>
         <figure style="text-align: center;">
         <img src="Mauro_Maggioni.jpg" alt="Mauro Maggioni" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-        <figcaption style="font-size: 14px; color: gray;">Mauro Maggioni</figcaption>
+        <figcaption style="font-size: 14px; color: gray;">Mauro Maggioni, JHU</figcaption>
     </figure>
     <figure style="text-align: center;">
         <img src="Brad_Peercy.jpg" alt="Brad Peercy" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-        <figcaption style="font-size: 14px; color: gray;">Brad Peercy</figcaption>
+        <figcaption style="font-size: 14px; color: gray;">Brad Peercy, UMBC</figcaption>
     </figure>
     <figure style="text-align: center;">
         <img src="Mahlet_Tadesse_Picture.jpg" alt="Mahlet Tadesse" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-        <figcaption style="font-size: 14px; color: gray;">Mahlet Tadesse</figcaption>
+        <figcaption style="font-size: 14px; color: gray;">Mahlet Tadesse, GU</figcaption>
     </figure>
     <figure style="text-align: center;">
         <img src="Soledad_Villar.png" alt="Soledad Villar" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-        <figcaption style="font-size: 14px; color: gray;">Soledad Villar</figcaption>
+        <figcaption style="font-size: 14px; color: gray;">Soledad Villar, JHU</figcaption>
     </figure>
 </div>
 
